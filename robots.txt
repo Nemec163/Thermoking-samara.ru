@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /images/
+Allow: /img/
+Disallow: /js/
+Disallow: /css/
+Disallow: /php/
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Yandex
+Allow: /images/
+Allow: /img/
+Disallow: /js/
+Disallow: /css/
+Disallow: /php/
+Host: thermoking-samara.ru
